@@ -6,9 +6,9 @@ Mongo-Scraper is an app that scrapes articles from Neuroscience News (https://ne
 
 A live version can be found here: https://mighty-coast-77800.herokuapp.com/
 
-![Website](https://github.com/skobayash/Mongo-Scraper/tree/master/public/images/readme.png)
+![Website](https://github.com/skobayash/Mongo-Scraper/blob/master/public/images/readme.png)
 
-![Website](https://github.com/skobayash/Mongo-Scraper/tree/master/public/images/comments.png)
+![Website](https://github.com/skobayash/Mongo-Scraper/blob/master/public/images/comments.png)
 
 ## Installation
 ### Clone to your local repository
