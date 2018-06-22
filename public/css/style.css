@@ -35,5 +35,28 @@ h5 {
 }
 
 .btn-dark {
-    width: 20%;
+    width: 50%;
+}
+
+textarea {
+    margin-bottom: 10px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.comment-card {
+    position: fixed;
+    top: 20px;
+    margin-right: 20px;
+}
+
+.col-sm-4,
+.col-md-3 {
+    padding-left: 10px;
+}
+
+.logo-holder {
+    float: right;
 }
