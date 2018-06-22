@@ -9,6 +9,17 @@ $.getJSON("/articles", function (data) {
   }
 });
 
+// On "scrape articles" button click, scrape for articles
+$("#scrape").on("click", function() {
+  $.ajax({
+      method: "GET",
+      url: "/scrape",
+  }).done(function(data) {
+      console.log(data)
+      window.location = "/"
+  })
+});
+
 
 // On document load: clicking on a card pulls up its comment card
 $(document).on("click", "div.card", function () {
