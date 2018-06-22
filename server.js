@@ -22,8 +22,7 @@ app.use(express.static("public"));  // Making public static
 
 /* Connecting to mongodb */
 mongoose.Promise = Promise;
-mongoose.connect("mongodb://localhost/neuronews", {});
-
+mongoose.connect(MONGODB_URI = process.env.MONGODB_URI || "mongodb://localhost/neuronews");
 
 /* Routes */
 
