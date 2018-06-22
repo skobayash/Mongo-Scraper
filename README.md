@@ -8,8 +8,6 @@ A live version can be found here: https://mighty-coast-77800.herokuapp.com/
 
 ![Website](https://github.com/skobayash/Mongo-Scraper/blob/master/public/images/readme.png)
 
-![Website](https://github.com/skobayash/Mongo-Scraper/blob/master/public/images/comments.png)
-
 ## Installation
 ### Clone to your local repository
 To clone Mongo-Scraper to your local repository, enter the following in your terminal/bash window:
